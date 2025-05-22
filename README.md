@@ -1,4 +1,3 @@
-{38C2C440-DBB1-40D6-BBCA-DE9532041F3C}.png
 # 👟 A Cotton Weave - Product Page
 
 ✨ A modern, responsive product page for a stylish cotton weave outfit, created using only **HTML & CSS**.
@@ -18,7 +17,7 @@
 
 ## 📸 Preview
 
-{38C2C440-DBB1-40D6-BBCA-DE9532041F3C}.png
+![Product Preview](./assets/{38C2C440-DBB1-40D6-BBCA-DE9532041F3C}.png)
 
 
 ---
