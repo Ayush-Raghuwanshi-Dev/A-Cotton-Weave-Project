@@ -1,7 +1,10 @@
-👟 A Cotton Weave - Product Page
+# 👟 A Cotton Weave - Product Page
 
+✨ A modern, responsive product page for a stylish cotton weave outfit, created using only **HTML & CSS**.
 
-✨ A modern, responsive product page for a stylish cotton weave shoe, created using only HTML & CSS.
+---
+
+## 🔖 Badges
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -10,47 +13,54 @@
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Made by Ayush](https://img.shields.io/badge/Made%20By-Ayush%20Raghuwanshi-blueviolet?style=for-the-badge)
 
+---
+
+## 📸 Preview
+
+<img src="./Assets/" alt="Product Page Preview" width="100%" style="border-radius: 10px;" />
+
+---
+
+## 🚀 Key Features
+
+- ✅ **Responsive layout** for all screen sizes
+- 🎨 **Color variant** options
+- ⭐ **Star rating** section using Remix Icons
+- 🛒 **Add to cart** call-to-action
+- 🧥 **Clean, minimal design**
+- 📱 **Mobile-first CSS media queries**
+
+---
+
+## 🛠️ Tech Stack
+
+ Technology         Purpose                          
+
+ **HTML5**          Page structure                   
+ **CSS3**           Styling & responsive layout      
+ **Remix Icons**    Product rating (stars)       
+
+---
 
 
-📸 Live Preview
-<img src="./Assets/42a1b0a88ac6a12e12c4bba51a6a2ab7.jpg" alt="Website Preview" width="100%" style="border-radius: 10px;">
+## 📱 Responsive Design
 
-🚀 Key Features
+This page is built with **mobile-first principles** and is optimized for all screen sizes:  
+📱 **Mobile**, 💻 **Tablet**, 🖥️ **Desktop**
 
-✅ Responsive layout for all screen sizes
-🎨 Color variant options
-⭐ Star rating section using Remix Icons
-🛒 Add to cart call-to-action
-🧥 Clean, stylish design
-📱 Optimized with CSS media queries
+---
 
-🛠️ Tech Stack
+## 👨‍💻 Author
 
-Technology	     Purpose
-HTML5	           Structure of the page
-CSS3	           Styling & responsive design
-Remix Icons	     For product rating (stars)
+**Ayush Raghuwanshi**  
+📍 *B.Tech CSE Student | Passionate Frontend Developer*  
+🔗 GitHub: [@Ayush-Raghuwanshi-Dev](https://github.com/Ayush-Raghuwanshi-Dev)
 
-📁 Folder Structure
+---
 
-Cotton-Weave-Product-Page/
-│
-├── index.html
-├── CSS/
-│   └── Style.css
-├── Assets/
-│   └── 42a1b0a88ac6a12e12c4bba51a6a2ab7.jpg
+## 📄 License
 
-📱 Responsive Design
+Licensed under the [MIT License](LICENSE).
 
-Built with mobile-first principles using CSS media queries. The design adjusts beautifully to mobile, tablet, and desktop screens 📱💻🖥️.
-
-
-👨‍💻 Author
-Ayush Raghuwanshi
-📍 B.Tech CSE Student | Passionate Frontend Developer
-🔗 GitHub: @Ayush-Raghuwanshi-Dev
-
-🌐 Live Demo
 
 
