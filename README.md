@@ -17,7 +17,7 @@
 
 ## 📸 Preview
 
-![Product Preview](./assets/{38C2C440-DBB1-40D6-BBCA-DE9532041F3C}.png)
+![Product Preview](./Assets/{38C2C440-DBB1-40D6-BBCA-DE9532041F3C}.png)
 
 
 ---
