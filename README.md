@@ -58,10 +58,14 @@ This page is built with **mobile-first principles** and is optimized for all scr
 🔗 GitHub: [@Ayush-Raghuwanshi-Dev](https://github.com/Ayush-Raghuwanshi-Dev)
 
 ---
+---
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
+
+![License Badge](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 
 
